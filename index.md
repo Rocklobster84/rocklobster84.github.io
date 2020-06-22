@@ -17,7 +17,7 @@ For the first artifact of my ePortfolio I chose to re-work a program from a coup
 
 I believe I met all of the objectives I planned on with this program. The program has been converted from Java to Python and now has a front-end interface to use. While preparing to create the new program I realized that the old version was no longer functioning. However, the basic logic was still there to work from. I also realized that it was repeating information because it returned the number of gallons and the number of cans which were the same. Therefore, I re-worked the actual functionality and what it returned. In order to do this, I had to learn how to use Flask which is a micro web framework that is written in Python. This took a little bit of time to learn but I was able to pick up the basics of the framework and retrieving data from forms fairly quickly.
 
-To view the source code for this project, visit https://github.com/Rocklobster84/PaintEstimatorPY. To view and demo this application without having to set it up locally you can also go to https://repl.it/@Stephycamaro/PaintEstimator#main.py.
+To view the source code for this project, visit <a href="https://github.com/Rocklobster84/PaintEstimatorPY">https://github.com/Rocklobster84/PaintEstimatorPY</a>. To view and demo this application without having to set it up locally you can also go to <a href="https://repl.it/@Stephycamaro/PaintEstimator#main.py">https://repl.it/@Stephycamaro/PaintEstimator#main.py</a>.
 
 
 # Algorithm and Data Structures
@@ -29,5 +29,8 @@ The second artifact I chose for my portfolio was a CRUD (Create, Read, Update, D
 
 I'm confident I have met the course objectives for this project. I will probably make a few more enhancements to make it more user-friendly, however, the bulk of the work is done. It has been a while since I have used PyMongo and since I am using Repl.it to run my applications I did experience a few problems getting my environment set up properly. Thankfully, I think I have all of the worked out now and just need to change a few small things such as wording, spacing, and expanding the field set that is manipulated.
 
-To view the source code for this project, visit https://github.com/Rocklobster84/Database-CRUD-Re-work. To view and demo this application without having to set it up locally you can also go to https://repl.it/@Stephycamaro/Database-CRUD#main.py.
+To view the source code for this project, visit <a href="https://github.com/Rocklobster84/Database-CRUD-Re-work">https://github.com/Rocklobster84/Database-CRUD-Re-work</a>. To view and demo this application without having to set it up locally you can also go to <a href="https://repl.it/@Stephycamaro/Database-CRUD#main.py">https://repl.it/@Stephycamaro/Database-CRUD#main.py</a>.
+
+# Databases
+
 
