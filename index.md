@@ -11,7 +11,7 @@ Before re-working these three projects I completed a code review as a starting p
 
 
 # Software Design and Engineering
-<img src="https://github.com/Rocklobster84/PaintEstimatorPY/blob/master/SS-Repl.PNG" alt="Screen shot of the Paint Estimator Application from repl.it" />
+<img src="/PaintEstimatorPY/blob/master/SS-Repl.PNG" alt="Screen shot of the Paint Estimator Application from repl.it" />
 
 For the first artifact of my ePortfolio I chose to re-work a program from a couple of years ago that was a calculator that helped determine how much paint to purchase based on square footage. I believe including this program in my ePortfolio helps show my flexibility with being able to work with more than one language. I selected this artifact because it could be turned in to a web application which aligns with my professional goals. This completed program shows my ability to convert an application that is run in a console, convert it to another language, and then put a front-end on it. I added some details to it as well such as adding in output for how many quarts would be needed since that is another common purchasing option for paint. 
 
@@ -19,4 +19,13 @@ I believe I met all of the objectives I planned on with this program. The progra
 
 To view the source code for this project, visit https://github.com/Rocklobster84/PaintEstimatorPY. To view and demo this application without having to set it up locally you can also go to https://repl.it/@Stephycamaro/PaintEstimator#main.py.
 
+
+# Algorithm and Data Structures
+<img src="/Database-CRUD-Re-work/blob/master/SS-Replit.PNG" alt="Screen shot of the Paint Estimator Application from repl.it" />
+
+The second artifact I chose for my portfolio was a CRUD (Create, Read, Update, Delete) application that was written in CS-340 that performs its operations on a MongoDB database. I created the original version of this in late 2019. I chose to make an updated version of this program because CRUD operations are very commonly used in modern applications. The manipulation of data in a database is an important skill to have. This particular program shows my data structure skills by interfacing with MongoDB by using Python and PyMongo markup to match input fields to values in the database and do CRUD operations on them. The CRUD functions themselves are an example of using algorithms to manipulate the data. The original version of this program had values hardcoded in it that would change. I have made it to where user input is assigned to variables and the data manipulated that way. 
+
+<img src="/Database-CRUD-Re-work/blob/master/SS-MongoDB.PNG" alt="Screen shot of the Paint Estimator Application from repl.it" />
+
+I'm confident I have met the course objectives for this project. I will probably make a few more enhancements to make it more user-friendly, however, the bulk of the work is done. It has been a while since I have used PyMongo and since I am using Repl.it to run my applications I did experience a few problems getting my environment set up properly. Thankfully, I think I have all of the worked out now and just need to change a few small things such as wording, spacing, and expanding the field set that is manipulated.
 
