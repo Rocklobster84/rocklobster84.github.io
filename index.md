@@ -8,3 +8,10 @@ The three projects this page focuses on covers areas in software design and engi
 # Code Review
 Before re-working these three projects I completed a code review as a starting point for my work. As you will see, none of these programs really worked anymore so I had a challenge ahead of me. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OhfPLNst_Uo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Software Design and Engineering
+For the first artifact of my ePortfolio I chose to re-work a program from a couple of years ago that was a calculator that helped determine how much paint to purchase based on square footage. I believe including this program in my ePortfolio helps show my flexibility with being able to work with more than one language. I selected this artifact because it could be turned in to a web application which aligns with my professional goals. This completed program shows my ability to convert an application that is run in a console, convert it to another language, and then put a front-end on it. I added some details to it as well such as adding in output for how many quarts would be needed since that is another common purchasing option for paint. 
+
+I believe I met all of the objectives I planned on with this program. The program has been converted from Java to Python and now has a front-end interface to use. While preparing to create the new program I realized that the old version was no longer functioning. However, the basic logic was still there to work from. I also realized that it was repeating information because it returned the number of gallons and the number of cans which were the same. Therefore, I re-worked the actual functionality and what it returned. In order to do this, I had to learn how to use Flask which is a micro web framework that is written in Python. This took a little bit of time to learn but I was able to pick up the basics of the framework and retrieving data from forms fairly quickly.
+
+
